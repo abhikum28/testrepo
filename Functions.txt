@@ -11,3 +11,5 @@
  End Function
  
  String Copy
+
+ Function sayMorning()
