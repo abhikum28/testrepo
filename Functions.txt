@@ -1,0 +1,11 @@
+ String Reverse
+ 
+ Function sayHello()
+    inputStr = InputBox("Enter your string")
+    
+    For i = Len(inputStr) to 1 Step-1
+        var = Mid(inputStr, i, 1)
+        reversedStr = reversedStr & var
+    Next
+    Msgbox reversedStr
+ End Function
