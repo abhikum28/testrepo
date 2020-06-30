@@ -9,3 +9,5 @@
     Next
     Msgbox reversedStr
  End Function
+ 
+ String Copy
